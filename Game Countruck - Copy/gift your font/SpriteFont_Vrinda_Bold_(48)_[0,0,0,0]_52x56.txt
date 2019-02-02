@@ -1,0 +1,50 @@
+﻿Import the relevant data below into Construct2/3.
+
+################################################################################
+
+Character width: 52
+Character height: 56
+Character set: ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789.,;:?!-_~#"'&()[]|`\/@°+=*$£€<>%
+
+################################################################################
+Construct 3 ONLY.
+Copy the following JSON text and paste into the 'Spacing data' property of the SpriteFont. No extra coding is required!
+
+[[31," "],[16,"il!|"],[17,"I'"],[18,".:"],[19,";"],[20,"j,[]"],[21,"`"],[23,"rt()"],[24,"1/"],[25,"f\"\\°"],[26,"*"],[29,"Jhnsu"],[30,"cdgkq-"],[31,"Labpz?+=<>"],[32,"eoy023456789$£"],[33,"Fv~€"],[34,"x#"],[35,"BEP&"],[36,"HNSTUZ_"],[37,"D"],[38,"CKR"],[40,"GVm"],[41,"AMOQXY"],[42,"w"],[47,"%"],[49,"@"],[50,"W"]]
+
+################################################################################
+Construct 2 ONLY.
+Copy the following JSON text and paste into the Array.Load command INSIDE the default quotes.
+
+{""c2array"":true,""size"":[2,27,1],""data"":[[[31],[16],[17],[18],[19],[20],[21],[23],[24],[25],[26],[29],[30],[31],[32],[33],[34],[35],[36],[37],[38],[40],[41],[42],[47],[49],[50]],[["" ""],[""il!|""],[""I'""],["".:""],["";""],[""j,[]""],[""`""],[""rt()""],[""1/""],[""f\""\\°""],[""*""],[""Jhnsu""],[""cdgkq-""],[""Labpz?+=<>""],[""eoy023456789$£""],[""Fv~€""],[""x#""],[""BEP&""],[""HNSTUZ_""],[""D""],[""CKR""],[""GVm""],[""AMOQXY""],[""w""],[""%""],[""@""],[""W""]]]}
+
+################################################################################
+These are the details for building the character widths manually, with the SpriteFont  'Set character width' action.
+
+31	" "
+16	"il!|"
+17	"I'"
+18	".:"
+19	";"
+20	"j,[]"
+21	"`"
+23	"rt()"
+24	"1/"
+25	"f""\°"
+26	"*"
+29	"Jhnsu"
+30	"cdgkq-"
+31	"Labpz?+=<>"
+32	"eoy023456789$£"
+33	"Fv~€"
+34	"x#"
+35	"BEP&"
+36	"HNSTUZ_"
+37	"D"
+38	"CKR"
+40	"GVm"
+41	"AMOQXY"
+42	"w"
+47	"%"
+49	"@"
+50	"W"
